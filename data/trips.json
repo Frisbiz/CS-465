@@ -1,17 +1,33 @@
 [
-    {
-        "name": "Gale Reef",
-        "image": "reef1.jpg",
-        "description": "<p>Gale Reef Sed at augue lorem in sit amet placerat arcu. Mauris volutpat ipsum ac justo mollis vel vestibulum orci gravida.</p>"
-    },
-    {
-        "name": "Dawson's Reef",
-        "image": "reef2.jpg",
-        "description": "<p>Dawson's Reef Integer Magna leo, posuere et digni</p>"
-    },
-    {
-        "name": "Claire's Reef",
-        "image": "reef3.jpg",
-        "description": "<p>Claire's Reef Donec sed felis risus. Nulla facil</p>"
-    }
+  {
+    "code": "GALR210214",
+    "name": "Gale Reef",
+    "length": "4 nights / 5 days",
+    "start": "2021-02-14T08:00:02",
+    "resort": "Emerald Bay, 5 stars",
+    "perPerson": "799.99",
+    "image": "reef.jpg",
+    "description": "<p>Gale Reef Sed et augue lorem. In sit amet placerat arcu</p>"
+  },
+  {
+    "code": "DAWR210315",
+    "name": "Dawson's Reef",
+    "length": "4 nights / 5 days",
+    "start": "2021-03-15T08:00:00",
+    "resort": "Blue Lagoon, 4 stars",
+    "perPerson": "749.99",
+    "image": "reef.jpg",
+    "description": "<p>Dawson's Reef Integer magna leo, posuere et dignissim v</p>"
+  },
+  {
+    "code": "CLAR210611",
+    "name": "Claire's Reef",
+    "length": "4 nights / 5 days",
+    "start": "2021-06-11T08:00:00",
+    "resort": "Coral Sands, 5 stars",
+    "perPerson": "899.99",
+    "image": "reef.jpg",
+    "description": "<p>Claire's Reef Donec sed felis risus. Nulla facilisi. Do</p>"
+  }
 ]
+ 
