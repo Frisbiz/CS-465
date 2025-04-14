@@ -20,7 +20,7 @@ mongoose.connection.on('error', err => {
 });
 
 mongoose.connection.on('disconnected', () => {
-    onsole.log('Mongoose disconnected');
+    console.log('Mongoose disconnected');
 });
 
 
