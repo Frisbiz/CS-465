@@ -1,4 +1,4 @@
-# README and Journal Reflection
+# README / Project Reflection
 ## Architecture
 In this project, I used two types of frontend development. I built the customer-facing site with Express, HTML, and JavaScript. This part was more traditional and used server-rendered pages. Later, I built the admin side using Angular as a single-page application. The SPA made the admin site faster because it could update the screen without reloading the whole page. It made things feel smoother compared to the Express side, which had to reload full pages.
 
