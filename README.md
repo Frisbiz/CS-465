@@ -1,5 +1,5 @@
 
-# Travlr Getaways — Full‑Stack Travel Web App 🚀
+# Travlr Getaways - Full‑Stack Travel Web App 🚀
 
 **MEAN stack sample application** showcasing a customer‑facing travel site and an Angular admin dashboard backed by a secure REST API and MongoDB. The project demonstrates server‑rendered pages with Express, a SPA admin experience with Angular, JWT‑based authentication/authorization, and CRUD operations for trip data.
 
