@@ -98,7 +98,7 @@ flowchart LR
 ## Quick Start ▶️
 
 1) Clone and install dependencies
-git clone https://github.com/Frisbiz/CS-465.git
+git clone https://github.com/Frisbiz/Travlr.git
 cd CS-465
 
 # root install (if used)
