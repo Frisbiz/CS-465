@@ -286,13 +286,6 @@ curl -X POST http://localhost:3001/api/trips \
 
 ---
 
-## Contributing 🤝
-
-1. Create a feature branch from `main`.
-2. Keep commits scoped and conventional if possible.
-3. Open a PR with a clear description and testing notes.
-
----
 
 ## License 📄
 
