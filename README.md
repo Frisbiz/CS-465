@@ -35,7 +35,7 @@
 
 ## Repository Structure 🗂️
 
-CS-465/
+CS-/
 ├─ app_admin/        # Angular SPA (Admin UI)
 ├─ app_api/          # Express REST API (JWT auth, CRUD for trips)
 ├─ app_server/       # Express server-rendered customer site
@@ -99,7 +99,7 @@ flowchart LR
 
 1) Clone and install dependencies
 git clone https://github.com/Frisbiz/Travlr.git
-cd CS-465
+cd Travlr
 
 # root install (if used)
 npm install
@@ -300,12 +300,6 @@ No license specified. Consider adding an open‑source license (e.g., MIT) or a 
 
 ---
 
-## Acknowledgements 🙏
-
-- CS‑465 Full‑Stack course materials
-- Express/Angular/MongoDB communities and documentation
-
----
 
 ### Summary 📌
 
